@@ -1,0 +1,28 @@
+/* Admin Bar Navigator */
+#wp-admin-bar-e-addons-inspector .ab-submenu .ab-item {
+    display: flex;
+    /*max-width: 200px;*/ }
+#wp-admin-bar-e-addons-inspector .elementor-edit-link-title {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 100%; }
+#wp-admin-bar-e-addons-inspector .elementor-edit-link-type {
+    background: #55595c;
+    font-size: 11px;
+    line-height: 9px;
+    margin-top: 6px;
+    padding: 4px 8px;
+    border-radius: 3px; 
+    margin-left: 6px;
+}
+
+#wp-admin-bar-e-addons-inspector #wp-admin-bar-elementor_inspector_theme {
+    margin-top: 10px;
+    border-top: 1px solid #666;
+}
+
+#wp-admin-bar-e-addons-inspector #wp-admin-bar-elementor-memory {
+    margin-top: 10px;
+    border-top: 1px solid #666;
+}
